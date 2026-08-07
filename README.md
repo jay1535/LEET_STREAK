@@ -97,15 +97,26 @@ If you contribute, please make sure to:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jay1535/LEET_STREAK/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/jay1535/LEET_STREAK/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/jay1535/LEET_STREAK/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jay1535/LEET_STREAK/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/jay1535/LEET_STREAK/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/jay1535/LEET_STREAK/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/jay1535/LEET_STREAK/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/jay1535/LEET_STREAK/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/jay1535/LEET_STREAK/tree/master/0977-squares-of-a-sorted-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jay1535/LEET_STREAK/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jay1535/LEET_STREAK/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
