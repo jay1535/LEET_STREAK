@@ -101,6 +101,7 @@ If you contribute, please make sure to:
 | [0015-3sum](https://github.com/jay1535/LEET_STREAK/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jay1535/LEET_STREAK/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/jay1535/LEET_STREAK/tree/master/0075-sort-colors) |
+| [0209-minimum-size-subarray-sum](https://github.com/jay1535/LEET_STREAK/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/jay1535/LEET_STREAK/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/jay1535/LEET_STREAK/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -129,14 +130,17 @@ If you contribute, please make sure to:
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/jay1535/LEET_STREAK/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/jay1535/LEET_STREAK/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/jay1535/LEET_STREAK/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/jay1535/LEET_STREAK/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/jay1535/LEET_STREAK/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/jay1535/LEET_STREAK/tree/master/0713-subarray-product-less-than-k) |
 ## Dynamic Programming
 |  |
