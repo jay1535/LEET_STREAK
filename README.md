@@ -72,6 +72,7 @@ If you contribute, please make sure to:
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/jay1535/LEET_STREAK/tree/master/0029-divide-two-integers) |
+| [0202-happy-number](https://github.com/jay1535/LEET_STREAK/tree/master/0202-happy-number) |
 | [1140-stone-game-ii](https://github.com/jay1535/LEET_STREAK/tree/master/1140-stone-game-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jay1535/LEET_STREAK/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
@@ -119,6 +120,7 @@ If you contribute, please make sure to:
 | [0075-sort-colors](https://github.com/jay1535/LEET_STREAK/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/jay1535/LEET_STREAK/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jay1535/LEET_STREAK/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/jay1535/LEET_STREAK/tree/master/0202-happy-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/jay1535/LEET_STREAK/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jay1535/LEET_STREAK/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
@@ -171,6 +173,7 @@ If you contribute, please make sure to:
 | [0076-minimum-window-substring](https://github.com/jay1535/LEET_STREAK/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/jay1535/LEET_STREAK/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jay1535/LEET_STREAK/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/jay1535/LEET_STREAK/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/jay1535/LEET_STREAK/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/jay1535/LEET_STREAK/tree/master/0904-fruit-into-baskets) |
 ## Minimax
@@ -195,4 +198,5 @@ If you contribute, please make sure to:
 | ------- |
 | [0141-linked-list-cycle](https://github.com/jay1535/LEET_STREAK/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jay1535/LEET_STREAK/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/jay1535/LEET_STREAK/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
