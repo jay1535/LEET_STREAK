@@ -79,6 +79,7 @@ If you contribute, please make sure to:
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/jay1535/LEET_STREAK/tree/master/0029-divide-two-integers) |
+| [0287-find-the-duplicate-number](https://github.com/jay1535/LEET_STREAK/tree/master/0287-find-the-duplicate-number) |
 ## String
 |  |
 | ------- |
@@ -107,6 +108,7 @@ If you contribute, please make sure to:
 | [0016-3sum-closest](https://github.com/jay1535/LEET_STREAK/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/jay1535/LEET_STREAK/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/jay1535/LEET_STREAK/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/jay1535/LEET_STREAK/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/jay1535/LEET_STREAK/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/jay1535/LEET_STREAK/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/jay1535/LEET_STREAK/tree/master/0977-squares-of-a-sorted-array) |
@@ -121,6 +123,7 @@ If you contribute, please make sure to:
 | [0141-linked-list-cycle](https://github.com/jay1535/LEET_STREAK/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jay1535/LEET_STREAK/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/jay1535/LEET_STREAK/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/jay1535/LEET_STREAK/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/jay1535/LEET_STREAK/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jay1535/LEET_STREAK/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
@@ -142,6 +145,7 @@ If you contribute, please make sure to:
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jay1535/LEET_STREAK/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/jay1535/LEET_STREAK/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/jay1535/LEET_STREAK/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/jay1535/LEET_STREAK/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
@@ -199,4 +203,9 @@ If you contribute, please make sure to:
 | [0141-linked-list-cycle](https://github.com/jay1535/LEET_STREAK/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/jay1535/LEET_STREAK/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/jay1535/LEET_STREAK/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/jay1535/LEET_STREAK/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/jay1535/LEET_STREAK/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
