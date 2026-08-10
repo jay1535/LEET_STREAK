@@ -117,6 +117,7 @@ If you contribute, please make sure to:
 | [0015-3sum](https://github.com/jay1535/LEET_STREAK/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jay1535/LEET_STREAK/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/jay1535/LEET_STREAK/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/jay1535/LEET_STREAK/tree/master/0141-linked-list-cycle) |
 | [0977-squares-of-a-sorted-array](https://github.com/jay1535/LEET_STREAK/tree/master/0977-squares-of-a-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jay1535/LEET_STREAK/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
@@ -167,6 +168,7 @@ If you contribute, please make sure to:
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jay1535/LEET_STREAK/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/jay1535/LEET_STREAK/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/jay1535/LEET_STREAK/tree/master/0141-linked-list-cycle) |
 | [0424-longest-repeating-character-replacement](https://github.com/jay1535/LEET_STREAK/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/jay1535/LEET_STREAK/tree/master/0904-fruit-into-baskets) |
 ## Minimax
@@ -181,4 +183,12 @@ If you contribute, please make sure to:
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/jay1535/LEET_STREAK/tree/master/1140-stone-game-ii) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/jay1535/LEET_STREAK/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/jay1535/LEET_STREAK/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
