@@ -118,6 +118,7 @@ If you contribute, please make sure to:
 | [1004-max-consecutive-ones-iii](https://github.com/jay1535/LEET_STREAK/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/jay1535/LEET_STREAK/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/jay1535/LEET_STREAK/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/jay1535/LEET_STREAK/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,6 +179,7 @@ If you contribute, please make sure to:
 | [1140-stone-game-ii](https://github.com/jay1535/LEET_STREAK/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/jay1535/LEET_STREAK/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1510-stone-game-iv](https://github.com/jay1535/LEET_STREAK/tree/master/1510-stone-game-iv) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/jay1535/LEET_STREAK/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jay1535/LEET_STREAK/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
