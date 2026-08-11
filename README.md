@@ -117,6 +117,7 @@ If you contribute, please make sure to:
 | [0977-squares-of-a-sorted-array](https://github.com/jay1535/LEET_STREAK/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/jay1535/LEET_STREAK/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/jay1535/LEET_STREAK/tree/master/1140-stone-game-ii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/jay1535/LEET_STREAK/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -175,6 +176,7 @@ If you contribute, please make sure to:
 | [0053-maximum-subarray](https://github.com/jay1535/LEET_STREAK/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/jay1535/LEET_STREAK/tree/master/0152-maximum-product-subarray) |
 | [1140-stone-game-ii](https://github.com/jay1535/LEET_STREAK/tree/master/1140-stone-game-ii) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/jay1535/LEET_STREAK/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1510-stone-game-iv](https://github.com/jay1535/LEET_STREAK/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jay1535/LEET_STREAK/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
