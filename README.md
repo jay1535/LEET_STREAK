@@ -107,6 +107,7 @@ If you contribute, please make sure to:
 | ------- |
 | [0015-3sum](https://github.com/jay1535/LEET_STREAK/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/jay1535/LEET_STREAK/tree/master/0016-3sum-closest) |
+| [0053-maximum-subarray](https://github.com/jay1535/LEET_STREAK/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/jay1535/LEET_STREAK/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/jay1535/LEET_STREAK/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/jay1535/LEET_STREAK/tree/master/0287-find-the-duplicate-number) |
@@ -170,6 +171,7 @@ If you contribute, please make sure to:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/jay1535/LEET_STREAK/tree/master/0053-maximum-subarray) |
 | [1140-stone-game-ii](https://github.com/jay1535/LEET_STREAK/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/jay1535/LEET_STREAK/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jay1535/LEET_STREAK/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -223,4 +225,8 @@ If you contribute, please make sure to:
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/jay1535/LEET_STREAK/tree/master/1510-stone-game-iv) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/jay1535/LEET_STREAK/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
