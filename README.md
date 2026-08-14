@@ -114,6 +114,7 @@ If you contribute, please make sure to:
 | [0152-maximum-product-subarray](https://github.com/jay1535/LEET_STREAK/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/jay1535/LEET_STREAK/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/jay1535/LEET_STREAK/tree/master/0287-find-the-duplicate-number) |
+| [0560-subarray-sum-equals-k](https://github.com/jay1535/LEET_STREAK/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/jay1535/LEET_STREAK/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/jay1535/LEET_STREAK/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/jay1535/LEET_STREAK/tree/master/0918-maximum-sum-circular-subarray) |
@@ -177,6 +178,7 @@ If you contribute, please make sure to:
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/jay1535/LEET_STREAK/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/jay1535/LEET_STREAK/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/jay1535/LEET_STREAK/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/jay1535/LEET_STREAK/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/jay1535/LEET_STREAK/tree/master/1140-stone-game-ii) |
@@ -200,6 +202,7 @@ If you contribute, please make sure to:
 | [0142-linked-list-cycle-ii](https://github.com/jay1535/LEET_STREAK/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/jay1535/LEET_STREAK/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/jay1535/LEET_STREAK/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/jay1535/LEET_STREAK/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/jay1535/LEET_STREAK/tree/master/0904-fruit-into-baskets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jay1535/LEET_STREAK/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jay1535/LEET_STREAK/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
