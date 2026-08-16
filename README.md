@@ -75,6 +75,7 @@ If you contribute, please make sure to:
 | [0202-happy-number](https://github.com/jay1535/LEET_STREAK/tree/master/0202-happy-number) |
 | [1140-stone-game-ii](https://github.com/jay1535/LEET_STREAK/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/jay1535/LEET_STREAK/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/jay1535/LEET_STREAK/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jay1535/LEET_STREAK/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
@@ -99,6 +100,7 @@ If you contribute, please make sure to:
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/jay1535/LEET_STREAK/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jay1535/LEET_STREAK/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jay1535/LEET_STREAK/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
@@ -125,6 +127,7 @@ If you contribute, please make sure to:
 | [1140-stone-game-ii](https://github.com/jay1535/LEET_STREAK/tree/master/1140-stone-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/jay1535/LEET_STREAK/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/jay1535/LEET_STREAK/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2029-stone-game-ix](https://github.com/jay1535/LEET_STREAK/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/jay1535/LEET_STREAK/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jay1535/LEET_STREAK/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jay1535/LEET_STREAK/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -216,16 +219,19 @@ If you contribute, please make sure to:
 | ------- |
 | [1140-stone-game-ii](https://github.com/jay1535/LEET_STREAK/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/jay1535/LEET_STREAK/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/jay1535/LEET_STREAK/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/jay1535/LEET_STREAK/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/jay1535/LEET_STREAK/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/jay1535/LEET_STREAK/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/jay1535/LEET_STREAK/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/jay1535/LEET_STREAK/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/jay1535/LEET_STREAK/tree/master/2029-stone-game-ix) |
 ## Linked List
 |  |
 | ------- |
@@ -247,6 +253,7 @@ If you contribute, please make sure to:
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/jay1535/LEET_STREAK/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/jay1535/LEET_STREAK/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
@@ -272,4 +279,8 @@ If you contribute, please make sure to:
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/jay1535/LEET_STREAK/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/jay1535/LEET_STREAK/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
