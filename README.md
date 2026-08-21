@@ -77,6 +77,7 @@ If you contribute, please make sure to:
 | [1510-stone-game-iv](https://github.com/jay1535/LEET_STREAK/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/jay1535/LEET_STREAK/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/jay1535/LEET_STREAK/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jay1535/LEET_STREAK/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jay1535/LEET_STREAK/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
@@ -84,6 +85,7 @@ If you contribute, please make sure to:
 | [0029-divide-two-integers](https://github.com/jay1535/LEET_STREAK/tree/master/0029-divide-two-integers) |
 | [0287-find-the-duplicate-number](https://github.com/jay1535/LEET_STREAK/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/jay1535/LEET_STREAK/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jay1535/LEET_STREAK/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jay1535/LEET_STREAK/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## String
 |  |
@@ -109,6 +111,7 @@ If you contribute, please make sure to:
 ## Number Theory
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jay1535/LEET_STREAK/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jay1535/LEET_STREAK/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Array
 |  |
@@ -139,6 +142,7 @@ If you contribute, please make sure to:
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jay1535/LEET_STREAK/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jay1535/LEET_STREAK/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jay1535/LEET_STREAK/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jay1535/LEET_STREAK/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/jay1535/LEET_STREAK/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/jay1535/LEET_STREAK/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
@@ -177,6 +181,7 @@ If you contribute, please make sure to:
 | [0287-find-the-duplicate-number](https://github.com/jay1535/LEET_STREAK/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/jay1535/LEET_STREAK/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/jay1535/LEET_STREAK/tree/master/1004-max-consecutive-ones-iii) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jay1535/LEET_STREAK/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Sliding Window
 |  |
 | ------- |
@@ -304,4 +309,8 @@ If you contribute, please make sure to:
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jay1535/LEET_STREAK/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jay1535/LEET_STREAK/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
