@@ -76,6 +76,7 @@ If you contribute, please make sure to:
 | [1140-stone-game-ii](https://github.com/jay1535/LEET_STREAK/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/jay1535/LEET_STREAK/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/jay1535/LEET_STREAK/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/jay1535/LEET_STREAK/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/jay1535/LEET_STREAK/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/jay1535/LEET_STREAK/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jay1535/LEET_STREAK/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -144,6 +145,7 @@ If you contribute, please make sure to:
 | [1386-cinema-seat-allocation](https://github.com/jay1535/LEET_STREAK/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/jay1535/LEET_STREAK/tree/master/1563-stone-game-v) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/jay1535/LEET_STREAK/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1872-stone-game-viii](https://github.com/jay1535/LEET_STREAK/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/jay1535/LEET_STREAK/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/jay1535/LEET_STREAK/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/jay1535/LEET_STREAK/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -215,6 +217,7 @@ If you contribute, please make sure to:
 | [0974-subarray-sums-divisible-by-k](https://github.com/jay1535/LEET_STREAK/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/jay1535/LEET_STREAK/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/jay1535/LEET_STREAK/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/jay1535/LEET_STREAK/tree/master/1872-stone-game-viii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -226,6 +229,7 @@ If you contribute, please make sure to:
 | [1510-stone-game-iv](https://github.com/jay1535/LEET_STREAK/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/jay1535/LEET_STREAK/tree/master/1563-stone-game-v) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/jay1535/LEET_STREAK/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1872-stone-game-viii](https://github.com/jay1535/LEET_STREAK/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jay1535/LEET_STREAK/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
@@ -250,6 +254,7 @@ If you contribute, please make sure to:
 | ------- |
 | [1140-stone-game-ii](https://github.com/jay1535/LEET_STREAK/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/jay1535/LEET_STREAK/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/jay1535/LEET_STREAK/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/jay1535/LEET_STREAK/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
@@ -257,6 +262,7 @@ If you contribute, please make sure to:
 | [1140-stone-game-ii](https://github.com/jay1535/LEET_STREAK/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/jay1535/LEET_STREAK/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/jay1535/LEET_STREAK/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/jay1535/LEET_STREAK/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/jay1535/LEET_STREAK/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/jay1535/LEET_STREAK/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
@@ -264,6 +270,7 @@ If you contribute, please make sure to:
 | ------- |
 | [1140-stone-game-ii](https://github.com/jay1535/LEET_STREAK/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/jay1535/LEET_STREAK/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/jay1535/LEET_STREAK/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/jay1535/LEET_STREAK/tree/master/2029-stone-game-ix) |
 ## Linked List
 |  |
