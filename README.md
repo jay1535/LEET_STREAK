@@ -102,6 +102,7 @@ If you contribute, please make sure to:
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jay1535/LEET_STREAK/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jay1535/LEET_STREAK/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jay1535/LEET_STREAK/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/jay1535/LEET_STREAK/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -114,6 +115,7 @@ If you contribute, please make sure to:
 | [2029-stone-game-ix](https://github.com/jay1535/LEET_STREAK/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jay1535/LEET_STREAK/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jay1535/LEET_STREAK/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/jay1535/LEET_STREAK/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
@@ -253,6 +255,7 @@ If you contribute, please make sure to:
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jay1535/LEET_STREAK/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/jay1535/LEET_STREAK/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jay1535/LEET_STREAK/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/jay1535/LEET_STREAK/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Minimax
 |  |
 | ------- |
@@ -327,6 +330,7 @@ If you contribute, please make sure to:
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/jay1535/LEET_STREAK/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/jay1535/LEET_STREAK/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Simulation
 |  |
 | ------- |
@@ -339,4 +343,8 @@ If you contribute, please make sure to:
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/jay1535/LEET_STREAK/tree/master/0986-interval-list-intersections) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/jay1535/LEET_STREAK/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
