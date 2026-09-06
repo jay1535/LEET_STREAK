@@ -98,6 +98,7 @@ If you contribute, please make sure to:
 | [0003-longest-substring-without-repeating-characters](https://github.com/jay1535/LEET_STREAK/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/jay1535/LEET_STREAK/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/jay1535/LEET_STREAK/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/jay1535/LEET_STREAK/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/jay1535/LEET_STREAK/tree/master/0424-longest-repeating-character-replacement) |
 | [1927-sum-game](https://github.com/jay1535/LEET_STREAK/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/jay1535/LEET_STREAK/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -238,6 +239,7 @@ If you contribute, please make sure to:
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jay1535/LEET_STREAK/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/jay1535/LEET_STREAK/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/jay1535/LEET_STREAK/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/jay1535/LEET_STREAK/tree/master/0918-maximum-sum-circular-subarray) |
 | [1140-stone-game-ii](https://github.com/jay1535/LEET_STREAK/tree/master/1140-stone-game-ii) |
