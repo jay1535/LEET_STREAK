@@ -96,6 +96,7 @@ If you contribute, please make sure to:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jay1535/LEET_STREAK/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/jay1535/LEET_STREAK/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/jay1535/LEET_STREAK/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/jay1535/LEET_STREAK/tree/master/0424-longest-repeating-character-replacement) |
 | [1927-sum-game](https://github.com/jay1535/LEET_STREAK/tree/master/1927-sum-game) |
@@ -372,4 +373,12 @@ If you contribute, please make sure to:
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jay1535/LEET_STREAK/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jay1535/LEET_STREAK/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/jay1535/LEET_STREAK/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
