@@ -163,6 +163,7 @@ If you contribute, please make sure to:
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jay1535/LEET_STREAK/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jay1535/LEET_STREAK/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jay1535/LEET_STREAK/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/jay1535/LEET_STREAK/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/jay1535/LEET_STREAK/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jay1535/LEET_STREAK/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jay1535/LEET_STREAK/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -195,6 +196,7 @@ If you contribute, please make sure to:
 | [0977-squares-of-a-sorted-array](https://github.com/jay1535/LEET_STREAK/tree/master/0977-squares-of-a-sorted-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jay1535/LEET_STREAK/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jay1535/LEET_STREAK/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/jay1535/LEET_STREAK/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Quicksort
 |  |
 | ------- |
@@ -212,6 +214,7 @@ If you contribute, please make sure to:
 | [0713-subarray-product-less-than-k](https://github.com/jay1535/LEET_STREAK/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/jay1535/LEET_STREAK/tree/master/1004-max-consecutive-ones-iii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jay1535/LEET_STREAK/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/jay1535/LEET_STREAK/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sliding Window
 |  |
 | ------- |
@@ -253,6 +256,7 @@ If you contribute, please make sure to:
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/jay1535/LEET_STREAK/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1872-stone-game-viii](https://github.com/jay1535/LEET_STREAK/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jay1535/LEET_STREAK/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/jay1535/LEET_STREAK/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
