@@ -144,6 +144,7 @@ If you contribute, please make sure to:
 | [0560-subarray-sum-equals-k](https://github.com/jay1535/LEET_STREAK/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/jay1535/LEET_STREAK/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/jay1535/LEET_STREAK/tree/master/0724-find-pivot-index) |
+| [0835-image-overlap](https://github.com/jay1535/LEET_STREAK/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/jay1535/LEET_STREAK/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/jay1535/LEET_STREAK/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jay1535/LEET_STREAK/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -384,6 +385,7 @@ If you contribute, please make sure to:
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/jay1535/LEET_STREAK/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jay1535/LEET_STREAK/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Stack
 |  |
