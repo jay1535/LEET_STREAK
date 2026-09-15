@@ -105,6 +105,7 @@ If you contribute, please make sure to:
 | [0940-distinct-subsequences-ii](https://github.com/jay1535/LEET_STREAK/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/jay1535/LEET_STREAK/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/jay1535/LEET_STREAK/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jay1535/LEET_STREAK/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/jay1535/LEET_STREAK/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/jay1535/LEET_STREAK/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jay1535/LEET_STREAK/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -121,6 +122,7 @@ If you contribute, please make sure to:
 | [1386-cinema-seat-allocation](https://github.com/jay1535/LEET_STREAK/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/jay1535/LEET_STREAK/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/jay1535/LEET_STREAK/tree/master/2029-stone-game-ix) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jay1535/LEET_STREAK/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jay1535/LEET_STREAK/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jay1535/LEET_STREAK/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/jay1535/LEET_STREAK/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -186,6 +188,7 @@ If you contribute, please make sure to:
 | [0876-middle-of-the-linked-list](https://github.com/jay1535/LEET_STREAK/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/jay1535/LEET_STREAK/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/jay1535/LEET_STREAK/tree/master/0986-interval-list-intersections) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jay1535/LEET_STREAK/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jay1535/LEET_STREAK/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/jay1535/LEET_STREAK/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
@@ -257,6 +260,7 @@ If you contribute, please make sure to:
 | [1563-stone-game-v](https://github.com/jay1535/LEET_STREAK/tree/master/1563-stone-game-v) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/jay1535/LEET_STREAK/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1872-stone-game-viii](https://github.com/jay1535/LEET_STREAK/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jay1535/LEET_STREAK/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/jay1535/LEET_STREAK/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/jay1535/LEET_STREAK/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
