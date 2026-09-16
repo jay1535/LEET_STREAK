@@ -77,6 +77,7 @@ If you contribute, please make sure to:
 | [1140-stone-game-ii](https://github.com/jay1535/LEET_STREAK/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/jay1535/LEET_STREAK/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/jay1535/LEET_STREAK/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jay1535/LEET_STREAK/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/jay1535/LEET_STREAK/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/jay1535/LEET_STREAK/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/jay1535/LEET_STREAK/tree/master/2029-stone-game-ix) |
@@ -244,6 +245,7 @@ If you contribute, please make sure to:
 | [0974-subarray-sums-divisible-by-k](https://github.com/jay1535/LEET_STREAK/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/jay1535/LEET_STREAK/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/jay1535/LEET_STREAK/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jay1535/LEET_STREAK/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/jay1535/LEET_STREAK/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/jay1535/LEET_STREAK/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
@@ -258,6 +260,7 @@ If you contribute, please make sure to:
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/jay1535/LEET_STREAK/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1510-stone-game-iv](https://github.com/jay1535/LEET_STREAK/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/jay1535/LEET_STREAK/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jay1535/LEET_STREAK/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/jay1535/LEET_STREAK/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1872-stone-game-viii](https://github.com/jay1535/LEET_STREAK/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/jay1535/LEET_STREAK/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -368,6 +371,7 @@ If you contribute, please make sure to:
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/jay1535/LEET_STREAK/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/jay1535/LEET_STREAK/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Sweep Line
 |  |
