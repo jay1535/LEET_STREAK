@@ -107,6 +107,7 @@ If you contribute, please make sure to:
 | [0115-distinct-subsequences](https://github.com/jay1535/LEET_STREAK/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/jay1535/LEET_STREAK/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-distinct-subsequences-ii](https://github.com/jay1535/LEET_STREAK/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/jay1535/LEET_STREAK/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jay1535/LEET_STREAK/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/jay1535/LEET_STREAK/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/jay1535/LEET_STREAK/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -121,6 +122,7 @@ If you contribute, please make sure to:
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/jay1535/LEET_STREAK/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jay1535/LEET_STREAK/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -211,6 +213,7 @@ If you contribute, please make sure to:
 | [0056-merge-intervals](https://github.com/jay1535/LEET_STREAK/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/jay1535/LEET_STREAK/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/jay1535/LEET_STREAK/tree/master/0977-squares-of-a-sorted-array) |
+| [1096-brace-expansion-ii](https://github.com/jay1535/LEET_STREAK/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jay1535/LEET_STREAK/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jay1535/LEET_STREAK/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/jay1535/LEET_STREAK/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -298,6 +301,7 @@ If you contribute, please make sure to:
 | [0560-subarray-sum-equals-k](https://github.com/jay1535/LEET_STREAK/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/jay1535/LEET_STREAK/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/jay1535/LEET_STREAK/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1096-brace-expansion-ii](https://github.com/jay1535/LEET_STREAK/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/jay1535/LEET_STREAK/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/jay1535/LEET_STREAK/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jay1535/LEET_STREAK/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -414,6 +418,7 @@ If you contribute, please make sure to:
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/jay1535/LEET_STREAK/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jay1535/LEET_STREAK/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -424,6 +429,7 @@ If you contribute, please make sure to:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jay1535/LEET_STREAK/tree/master/0020-valid-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/jay1535/LEET_STREAK/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
