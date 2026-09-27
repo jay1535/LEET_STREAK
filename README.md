@@ -108,6 +108,7 @@ If you contribute, please make sure to:
 | [0424-longest-repeating-character-replacement](https://github.com/jay1535/LEET_STREAK/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-distinct-subsequences-ii](https://github.com/jay1535/LEET_STREAK/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/jay1535/LEET_STREAK/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jay1535/LEET_STREAK/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jay1535/LEET_STREAK/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jay1535/LEET_STREAK/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/jay1535/LEET_STREAK/tree/master/1927-sum-game) |
@@ -433,10 +434,12 @@ If you contribute, please make sure to:
 | ------- |
 | [0020-valid-parentheses](https://github.com/jay1535/LEET_STREAK/tree/master/0020-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/jay1535/LEET_STREAK/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jay1535/LEET_STREAK/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jay1535/LEET_STREAK/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jay1535/LEET_STREAK/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
 |  |
 | ------- |
