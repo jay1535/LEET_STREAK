@@ -102,6 +102,7 @@ If you contribute, please make sure to:
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jay1535/LEET_STREAK/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/jay1535/LEET_STREAK/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/jay1535/LEET_STREAK/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/jay1535/LEET_STREAK/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/jay1535/LEET_STREAK/tree/master/0115-distinct-subsequences) |
