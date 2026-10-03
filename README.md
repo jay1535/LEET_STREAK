@@ -105,6 +105,7 @@ If you contribute, please make sure to:
 | [0008-string-to-integer-atoi](https://github.com/jay1535/LEET_STREAK/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/jay1535/LEET_STREAK/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jay1535/LEET_STREAK/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/jay1535/LEET_STREAK/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/jay1535/LEET_STREAK/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/jay1535/LEET_STREAK/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/jay1535/LEET_STREAK/tree/master/0424-longest-repeating-character-replacement) |
@@ -281,6 +282,7 @@ If you contribute, please make sure to:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jay1535/LEET_STREAK/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/jay1535/LEET_STREAK/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/jay1535/LEET_STREAK/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/jay1535/LEET_STREAK/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/jay1535/LEET_STREAK/tree/master/0152-maximum-product-subarray) |
@@ -442,6 +444,7 @@ If you contribute, please make sure to:
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/jay1535/LEET_STREAK/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/jay1535/LEET_STREAK/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/jay1535/LEET_STREAK/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/jay1535/LEET_STREAK/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jay1535/LEET_STREAK/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -451,6 +454,7 @@ If you contribute, please make sure to:
 | ------- |
 | [0020-valid-parentheses](https://github.com/jay1535/LEET_STREAK/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/jay1535/LEET_STREAK/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/jay1535/LEET_STREAK/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/jay1535/LEET_STREAK/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/jay1535/LEET_STREAK/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jay1535/LEET_STREAK/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
