@@ -108,6 +108,7 @@ If you contribute, please make sure to:
 | [0032-longest-valid-parentheses](https://github.com/jay1535/LEET_STREAK/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/jay1535/LEET_STREAK/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/jay1535/LEET_STREAK/tree/master/0115-distinct-subsequences) |
+| [0301-remove-invalid-parentheses](https://github.com/jay1535/LEET_STREAK/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/jay1535/LEET_STREAK/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/jay1535/LEET_STREAK/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/jay1535/LEET_STREAK/tree/master/0856-score-of-parentheses) |
@@ -133,6 +134,7 @@ If you contribute, please make sure to:
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/jay1535/LEET_STREAK/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/jay1535/LEET_STREAK/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/jay1535/LEET_STREAK/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/jay1535/LEET_STREAK/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
@@ -438,6 +440,7 @@ If you contribute, please make sure to:
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/jay1535/LEET_STREAK/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/jay1535/LEET_STREAK/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/jay1535/LEET_STREAK/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
